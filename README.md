@@ -1,3 +1,6 @@
+## custom(bboradoli)
+- A repository for partially modifying the default option values for GCP authentication(WIF)
+
 # auth
 
 This GitHub Action authenticates to Google Cloud. It supports authentication via
