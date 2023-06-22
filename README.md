@@ -1,4 +1,4 @@
-## custom(bboradoli)
+## Custom (bboradoli)
 - A repository for partially modifying the default option values for GCP authentication(WIF)
 
 # auth
